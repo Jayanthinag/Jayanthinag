@@ -61,7 +61,7 @@ Experienced Data Scientist passionate about transforming data into actionable in
     - Utilized machine learning algorithms in Python, including Scikit-learn and TensorFlow, for sales forecasting and inventory optimization.
     - Conducted data analysis on customer purchasing patterns and inventory levels.
     - Implemented predictive models to optimize inventory management and enhance sales forecasting accuracy.
-    - 
+      
 - **Quantitative Analysis of Stock Market using Python**
   
     - Conducted statistical analysis and modeling using NumPy and StatsModels.
