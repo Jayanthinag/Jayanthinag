@@ -52,17 +52,22 @@ Experienced Data Scientist passionate about transforming data into actionable in
 
 ## Projects
 - **YouTube Channels Analysis with Advanced Visuals**
-  -Developed advanced visualizations using Matplotlib to illustrate trends in video views, subscriber growth, and engagement metrics.
-  -Implemented interactive plots and dashboards for deep insights into audience preferences and channel performance.
+
+    -Developed advanced visualizations using Matplotlib to illustrate trends in video views, subscriber growth, and engagement metrics.
+    -Implemented interactive plots and dashboards for deep insights into audience preferences and channel performance.
+  
 - **H&M's Sales Forecasting and Inventory Management**
-  - Utilized machine learning algorithms in Python, including Scikit-learn and TensorFlow, for sales forecasting and inventory optimization.
-  - Conducted data analysis on customer purchasing patterns and inventory levels.
-  - Implemented predictive models to optimize inventory management and enhance sales forecasting accuracy.
+ 
+    - Utilized machine learning algorithms in Python, including Scikit-learn and TensorFlow, for sales forecasting and inventory optimization.
+    - Conducted data analysis on customer purchasing patterns and inventory levels.
+    - Implemented predictive models to optimize inventory management and enhance sales forecasting accuracy.
+    - 
 - **Quantitative Analysis of Stock Market using Python**
-  - Conducted statistical analysis and modeling using NumPy and StatsModels.
-  - Applied Python libraries like NumPy and Pandas for data manipulation and analysis of stock market data.
-  -Conducted statistical analysis to identify patterns and trends in stock prices and trading volumes.
-  -Developed quantitative models to forecast stock price movements and evaluate trading strategies based on historical data.
+  
+    - Conducted statistical analysis and modeling using NumPy and StatsModels.
+    - Applied Python libraries like NumPy and Pandas for data manipulation and analysis of stock market data.
+    -Conducted statistical analysis to identify patterns and trends in stock prices and trading volumes.
+    -Developed quantitative models to forecast stock price movements and evaluate trading strategies based on historical data.
 
 ## Interests
 - Numbers 🧮
