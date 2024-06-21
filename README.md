@@ -1,6 +1,7 @@
 # 🌟 Jayanthi N - Data Scientist 🌟
 
 Welcome to my GitHub profile, where data science meets innovation and problem-solving.
+
 LinkedIn: [Jayanthi N](https://www.linkedin.com/in/jayanthi-n-9a5057208/)
 Email: [njayanthi438@gmail.com](mailto:njayanthi438@gmail.com)
 
