@@ -1,70 +1,70 @@
 <h1 align="center">Hi 👋 I'm Jayanthi N</h1>
-<h3 align="center">Data Scientist | Data Science Mentor | AI Enthusiast</h3>
+<h3 align="center">Data Scientist | Decision Scientist | Data Science Mentor</h3>
 
 <p align="center">
-Transforming Data into Insights 📊 | Teaching the Next Generation of Data Scientists 🚀
+Turning Data into Insights 📊 | Mentoring Future Data Scientists 🚀
 </p>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Data+Science+Trainer;Python+%7C+ML+%7C+Deep+Learning;Building+AI+Driven+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Decision+Scientist+at+Mu+Sigma;Data+Science+Trainer;Data+Science+Mentor;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+Driven+Solutions" />
 </p>
 
 ---
 
-# 🌟 About Me
+## 🌟 About Me
 
-💡 Data Scientist passionate about **Machine Learning, AI, and Data Analytics**  
+💡 Early-career **Data Scientist passionate about Machine Learning, AI, and Data Analytics**  
+
 👩‍🏫 Mentored **200+ engineering students** in Data Science  
-📚 Delivered **300+ hours of ML, Python & NLP training**  
-📂 Guided **40+ real-world Data Science projects**  
-📊 Industry experience at **Mu Sigma & AIIF (MSME Project)**  
+📚 Delivered **300+ hours of training** on Python, ML, Deep Learning & NLP  
+📂 Guided **40+ live industry-level data science projects**  
+📊 Industry experience with **Mu Sigma and Advaith Innovation & Incubation Foundation (MSME Project)**  
 
 ---
 
-# 👩‍🏫 Mentoring Experience
+## 👩‍🏫 Mentoring & Training
 
 **Data Science Mentor**  
 📍 Advaith Innovation and Incubation Foundation (MSME Project)  
-🗓️ Nov 2025 – Present
+🗓️ Nov 2025 – Present  
 
 ✨ Highlights
 
-- 🎓 Mentored **200+ students**
-- ⏱️ Delivered **300+ hours training**
-- 📂 Guided **40+ ML projects**
-- 🎤 Conducted **inter-college workshops**
+- 🎓 Mentored **200+ engineering students** under VTU internship programs  
+- ⏱️ Delivered **300+ hours of instructor-led training** on Python, ML, DL, NLP, and Data Analytics  
+- 📂 Guided **40+ real-world ML projects** involving predictive modeling, EDA, and feature engineering  
+- 🎤 Conducted **technical workshops & inter-college training sessions** on Data Science applications  
+- 📊 Taught industry tools including **Power BI, SQL, and ML pipelines**
 
 ---
 
 # 🧠 Skills
 
 ### Programming
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,r,mysql" />
 </p>
 
-### Data Science
-
-<p align="left">
+### Machine Learning & AI
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
 ### Data Visualization
-
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=matplotlib" />
 </p>
 
-### Tools
+Matplotlib • Seaborn • ggplot2 • Power BI • Tableau
 
-<p align="left">
+### Tools & Platforms
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-Power BI • Tableau • Excel • Jupyter Notebook • MLFlow • RapidMiner
+Jupyter Notebook • Excel • MLFlow • RapidMiner
 
 ---
 
@@ -72,76 +72,60 @@ Power BI • Tableau • Excel • Jupyter Notebook • MLFlow • RapidMiner
 
 ### Decision Scientist  
 📍 Mu Sigma | Bengaluru  
-📅 Aug 2023 – Mar 2024
+📅 Aug 2023 – Mar 2024  
 
-- Built **Python analytics pipelines** on datasets with **5M+ records**
-- Created **Power BI KPI dashboards**
-- Performed **EDA & predictive modeling**
-- Automated reporting workflows reducing **manual effort by 30%**
+- Built **Python-based analytics pipelines** using Pandas and NumPy on enterprise datasets containing **5M+ records**
+- Performed **exploratory data analysis (EDA)** to identify patterns in customer behavior and operational performance
+- Applied **statistical modeling and predictive analytics** to support business decision-making
+- Developed **Power BI dashboards and KPI monitoring systems** for leadership reporting
+- Wrote optimized **SQL queries** for large-scale data extraction and transformation
+- Automated data workflows and reporting pipelines reducing **manual reporting effort by 30%**
+- Collaborated with **cross-functional teams including business stakeholders and analysts**
+- Contributed to **data-driven strategy insights** for improving operational efficiency
 
 ---
 
 ### Data Analyst Intern  
 📍 Tequed Labs | Bengaluru  
-📅 Sep 2022 – Oct 2022
+📅 Sep 2022 – Oct 2022  
 
-- Built **Power BI dashboards**
-- Data preprocessing & visualization
-- Business insights generation
+- Developed **Power BI dashboards for business insights**
+- Performed **data preprocessing and exploratory analysis**
+- Built **visual reports for decision-making support**
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects during uni / practice projects while learning
+**#LEARNING OVER KNOWING**
 
 ### 📊 Customer Lifetime Value Prediction
-- ML regression models with **85% accuracy**
-- Customer segmentation with clustering
+- Built **ML regression models achieving 85% prediction accuracy**
+- Performed **customer segmentation using clustering algorithms**
+- Applied hypothesis testing to improve conversion strategies
 
 ### 📈 YouTube Channel Analytics
-- Visualized **subscriber growth & engagement**
-- Interactive data dashboards
+- Visualized **subscriber growth and engagement patterns**
+- Created **advanced data visualizations using Matplotlib**
 
 ### 🛍️ H&M Sales Forecasting
-- Inventory optimization using ML
-- Sales forecasting models
+- Developed **machine learning models for sales prediction**
+- Optimized **inventory planning using demand forecasting**
 
 ### 📉 Stock Market Quantitative Analysis
-- Statistical modeling with Python
-- Trading strategy evaluation
+- Conducted **statistical modeling using Python**
+- Built **trading strategy simulations using historical data**
 
 ### 🔍 Google Search Trends Analysis
-- 20-year time-series dataset analysis
-- Forecast accuracy **78%**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
+- Conducted **time-series analysis on 20 years of search data**
+- Built automated **data mining pipelines reducing analysis time by 60%**
 
 ---
 
 # 🏆 Achievements
 
 🏅 Mentored **200+ Data Science students**  
-🏅 Delivered **300+ hours of training**  
-🏅 Guided **40+ live ML projects**  
+🏅 Delivered **300+ hours of technical training**  
+🏅 Guided **40+ real-world ML projects**  
 🏅 Published **AI research paper**
 
 ---
@@ -150,7 +134,7 @@ Power BI • Tableau • Excel • Jupyter Notebook • MLFlow • RapidMiner
 
 **BE – Computer Science & Engineering**  
 AMC Engineering College, Bangalore  
-2019 – 2023
+2019 – 2023  
 
 📄 Research Publication: AI-enabled regional language search engine
 
@@ -170,8 +154,10 @@ AMC Engineering College, Bangalore
 
 </p>
 
+📧 Email: **njayanthi438@gmail.com**
+
 ---
 
 <p align="center">
-✨ “Turning Data into Decisions” ✨
+✨ Turning Data into Decisions ✨
 </p>
