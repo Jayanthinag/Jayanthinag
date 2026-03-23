@@ -53,11 +53,14 @@ Turning Data into Insights 📊 | Mentoring Future Data Scientists 🚀
 </p>
 
 ### Data Visualization
+
 <p>
-<img src="https://skillicons.dev/icons?i=matplotlib" />
+<img src="https://skillicons.dev/icons?i=matplotlib,r" />
 </p>
 
 Matplotlib • Seaborn • ggplot2 • Power BI • Tableau
+
+
 
 ### Tools & Platforms
 <p>
